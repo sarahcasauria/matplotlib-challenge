@@ -28,4 +28,4 @@ Your tasks are to do the following:
 # Resources
 * The reference .csv files can be found in the **[data](https://github.com/sarahcasauria/matplotlib-challenge/tree/main/data)** folder
 
-* The analysis script is titled **[pymaceuticals_notebook.ipynb](https://github.com/sarahcasauria/Python-challenge/blob/main/pymaceuticals_notebok.ipynb)**
+* The analysis script is titled **[pymaceuticals_notebook.ipynb](https://github.com/sarahcasauria/matplotlib-challenge/blob/main/pymaceuticals_notebook.ipynb)**
